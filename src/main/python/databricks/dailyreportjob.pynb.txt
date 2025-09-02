@@ -1,1 +1,1 @@
-select * from hr.employee
+select * from hr.employee where emp_no=100
